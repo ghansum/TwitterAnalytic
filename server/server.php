@@ -6,10 +6,10 @@
 	$screen_name = $_GET["screen_name"];
 
 	$settings = array(
-	    'oauth_access_token' => "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-	    'oauth_access_token_secret' => "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-	    'consumer_key' => "XXXXXXXXXXXXXXXXXXXXXX",
-	    'consumer_secret' => "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+	    'oauth_access_token' => "758731115079151621-HCAA6GWtjFpaFV5S0m3rBD5nAQcvNeq",
+	    'oauth_access_token_secret' => "0upOsLJForHHhRfFvnKW5B8KPYORj98KCy9phmQjzPtxq",
+	    'consumer_key' => "8zbHU2hLMRwebaiSWb6Lv1bj1",
+	    'consumer_secret' => "XUEFNgAuwvkYZYMRT2emoGXXFY2ayPCXS7oyXEcIOJL3zoHcFe"
 	);
 
 	if ($url == 'info')
