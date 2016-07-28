@@ -1,0 +1,45 @@
+div.main-container {
+	padding-top: 20px;
+}
+
+div.container .row {
+	margin-top: 40px;
+}
+
+div.fixed-div {
+	position: fixed;
+	width: 20%;
+	top: 30%;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	padding: 20px;
+	background-color: #333333;
+	color: #fff;
+}
+
+div.fixed-div input, div.fixed-div button{
+	border-radius: 0;}
+
+div.fixed-div button{
+	background-color: #2b908f;
+	color: #fff;
+}
+
+div.fixed-div button:hover{
+	background-color: #2b908f;
+	color: #fff;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+div.fixed-div img {
+	margin-bottom: 30px;
+}
+
+#user-info {
+	color: #333333;
+}
+
+#user-info img {
+	height: 100px;
+	width: 100px;
+	border-radius: 3px solid #2b908f;
+}
