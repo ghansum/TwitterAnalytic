@@ -39,7 +39,7 @@
           <input type="screen_name" class="form-control input-lg" id="screen_name" placeholder="Twitter user Name">
         </div>
 
-        <button class="btn btn-lg btn-block" id="submit-btn" >Get Data ghhghggh</button>
+        <button class="btn btn-lg btn-block" id="submit-btn" >Get Data</button>
     </div>
 
     <div class="container main-container">
